@@ -39,6 +39,44 @@
       "mandatory": true,
       "url": "https://www.yourwebsite.com/archive/desktop_updater/1.0.0-linux",
       "platform": "linux"
+    },
+    {
+      "version": "0.1.1",
+      "shortVersion": 2,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Implement product management system with inventory tracking"
+        },
+        {
+          "type": "feat",
+          "message": "Add invoice generation and billing history"
+        },
+        {
+          "type": "feat",
+          "message": "Launch purchase management and supplier logs"
+        },
+        {
+          "type": "feat",
+          "message": "Introduce parties management for clients and vendors"
+        },
+        {
+          "type": "feat",
+          "message": "Enable multi-business creation and switching"
+        },
+        {
+          "type": "feat",
+          "message": "Add theme support for dark and light mode"
+        },
+        {
+          "type": "feat",
+          "message": "Support multi-tab navigation for concurrent tasks"
+        }
+      ],
+      "date": "2026-02-15",
+      "mandatory": true,
+      "url": "https://raw.githubusercontent.com/adilasharaf/single_quotes_crm/main/releases/single_quotes-0.1.1%2B2-linux/single_quotes",
+      "platform": "linux"
     }
   ]
 }
